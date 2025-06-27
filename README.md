@@ -20,7 +20,7 @@
 
 ```yaml
 🎓 Degree: B.E. in Computer Engineering
-📜 Certified: CEH v13
+📜 Certified: CEH v13, Google CyberSecuirity, Blue Team Junior Analyst
 🛡️ Interests: Penetration Testing, Bug Bounty, CTFs
 🌐 Currently: Exploring Web App Vulnerabilities
 ```
