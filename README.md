@@ -40,6 +40,41 @@
 
 ---
 
+---
+
+🚀 Join My Tech WhatsApp Group — TechSpire 💻⚙️🔥
+
+📌 **Group Name**: TechSpire🚨 💻 | Hacks, Networks & Systems ⚙️🔥
+
+👨‍💻 **Admin**: Pranit Thorat
+
+🧠 **About the Group**:
+
+Welcome to the ultimate tech hub! 🐧💻⚙️
+
+We share knowledge about:
+* 🛡️ Cybersecurity
+* 🌍 Networking
+* 🔓 Hacking
+* 🐧 Linux
+* 🖥️ Windows
+* 🚀 Tech News
+* 🐞 Bugs & Fixes
+* 💡 Innovation & Tools
+
+Let’s learn, share, and grow together! 🔥
+---
+<p align="center">
+  
+</p>
+<p align="center">
+  <a href="https://chat.whatsapp.com/Kl7WZ0zs6tvCdtb2fzQ3pH">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp%20Group-TechSpire-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
+  </a>
+</p>
+
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
