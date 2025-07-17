@@ -63,7 +63,7 @@ We share knowledge about:
 * 💡 Innovation & Tools
 
 Let’s learn, share, and grow together! 🔥
----
+
 <p align="center">
   
 </p>
@@ -73,7 +73,7 @@ Let’s learn, share, and grow together! 🔥
   </a>
 </p>
 
-
+---
 
 ### 📈 GitHub Stats
 
