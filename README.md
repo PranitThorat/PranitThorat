@@ -6,7 +6,7 @@
 
 <!-- 🧠 Typing Text Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Pranit+Thorat;Cybersecurity+Explorer+%F0%9F%94%95;Bug+Bounty+Hunter+%F0%9F%94%A5;Hacking+Legally+%F0%9F%A7%91%E2%80%8D%F0%9F%94%A8;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Pranit+Thorat;Certified+Ethical+Hacker;Cybersecurity+Explorer+%F0%9F%94%95;Bug+Bounty+Hunter+%F0%9F%94%A5;Hacking+Legally+%F0%9F%A7%91%E2%80%8D%F0%9F%94%A8;Always+Learning+%F0%9F%93%9A" />
 </h1>
 
 <!-- ⚡ Header Banner -->
